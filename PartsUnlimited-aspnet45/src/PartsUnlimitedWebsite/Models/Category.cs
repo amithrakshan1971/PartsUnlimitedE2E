@@ -7,6 +7,7 @@ namespace PartsUnlimited.Models
     {
         //My second change
         //My third change
+        //My release change
         public int CategoryId { get; set; }
 
         [Required]
